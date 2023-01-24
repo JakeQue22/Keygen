@@ -4,6 +4,11 @@ A keygen which generates a new key each time and adds it to a new line in a text
 
 Also checks for the same key in the file so will never create duplicate.
 
+# How to run:
+
+- Download or clone git. 
+- Open Command Prompt or Terminal and navigate to project folder
+- Type 'python keygen.py' and press enter
 
 ### Example Usage:
 ```
